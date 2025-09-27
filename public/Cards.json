@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Snowy Mountain Cabin",
+    "description": "A cozy wooden cabin surrounded by snowy pine trees in the mountains.",
+    "image": "/images/Snow (1).jpg"
+  },
+  {
+    "id": 2,
+    "title": "Icy Village",
+    "description": "A small village with snow-covered rooftops and a frozen river nearby.",
+    "image": "/images/Snow (2).jpg"
+  },
+  {
+    "id": 3,
+    "title": "Frozen Lake House",
+    "description": "A modern house built near a frozen lake with snowy mountains in the background.",
+    "image": "/images/Snow (3).jpg"
+  },
+  {
+    "id": 4,
+    "title": "Winter Forest Cabin",
+    "description": "A warm wooden cabin hidden deep in a snowy forest.",
+    "image": "/images/Snow (4).jpg"
+  },
+  {
+    "id": 5,
+    "title": "Alpine House",
+    "description": "A beautiful alpine house with snow all around and a chimney blowing smoke.",
+    "image": "/images/Snow (9).jpg"
+  },
+  {
+    "id": 6,
+    "title": "Snow Roof Cottages",
+    "description": "Small cottages covered in thick snow, looking magical at night.",
+    "image": "/images/Snow (6).jpg"
+  },
+  {
+    "id": 7,
+    "title": "Arctic Home",
+    "description": "A peaceful arctic home with northern lights in the sky.",
+    "image": "/images/Snow (7).jpg"
+  },
+  {
+    "id": 8,
+    "title": "Frozen Mountain Village",
+    "description": "A mountain village covered in snow, looking like a fairytale.",
+    "image": "/images/Snow (8).jpg"
+  },
+  {
+    "id": 9,
+    "title": "Wooden Winter Lodge",
+    "description": "A luxurious winter lodge with panoramic snowy views.",
+    "image": "/images/Snow (5).jpg"
+  },
+  {
+    "id": 10,
+    "title": "Charming Snow Cabin",
+    "description": "A charming log cabin glowing with lights on a snowy night.",
+    "image": "/images/Snow (10).jpg"
+  },
+  {
+    "id": 11,
+    "title": "Frozen Chalet",
+    "description": "A ski chalet surrounded by snowy peaks and pine forests.",
+    "image": "/images/Snow (11).jpg"
+  },
+  {
+    "id": 12,
+    "title": "Winter Lake House",
+    "description": "A lake house standing strong in the middle of a frozen wonderland.",
+    "image": "/images/Snow (12).jpg"
+  }
+]

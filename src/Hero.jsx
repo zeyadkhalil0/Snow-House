@@ -17,11 +17,12 @@ export default function Hero() {
     return () => clearInterval(interval);
   }, []);
   return (
-    <div className="relative w-full h-[100vh] overflow-hidden">
+    <div className="relative w-full md:h-[100vh] h-screen overflow-hidden">
       <img
         src={images[current]}
         alt="Hero current"
         className={`absolute w-full h-full object-cover transition-opacity duration-1000`}
+        loading="lazy"
       />
       <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
         <h1 className="text-4xl font-bold text-white">The Perfect Home</h1>

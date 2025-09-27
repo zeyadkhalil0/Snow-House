@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 export default function CardsSection() {
-  const [cards, setCards] = useState([]);
+  const [cards , setCards] = useState([]);
 
   useEffect(() => {
     fetch("/Cards.json")
@@ -16,7 +16,7 @@ export default function CardsSection() {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         {cards.map((card) => (
           <div key={card.id} className="bg-white rounded-2xl shadow-lg overflow-hidden">
-            <img src= {card.image} alt={card.title} className="w-full h-56 object-cover" />
+            <img src= {card.image} alt={card.title} loading="lazy" className="w-full h-56 object-cover" />
             <div className="p-4">
               <h3 className="text-xl font-semibold mb-2">{card.title}</h3>
               <p className="text-gray-600 text-sm">{card.description}</p>

@@ -5,7 +5,7 @@ export default function MyNavbar () {
   return (
     <Navbar fluid className="!bg-transparent">
       <NavbarBrand href="#">
-        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">ZeYad</span>
+        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Snow House</span>
       </NavbarBrand>
       <div className="flex md:order-2">
         <Button>Get started</Button>

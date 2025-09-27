@@ -17,7 +17,7 @@ export default function Hero() {
     return () => clearInterval(interval);
   }, []);
   return (
-    <div className="relative w-full md:h-[100vh] h-[120vh] overflow-hidden">
+    <div className="relative w-full md:h-[100vh] h-[110vh] overflow-hidden">
       <img
         src={images[current]}
         alt="Hero current"
